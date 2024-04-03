@@ -22,7 +22,7 @@
   <!-- <img src="https://img.shields.io/docker/pulls/bisheng-io/bisheng" alt="docker-pull-count" /> -->
 </div>
 
-# 欢迎来到 Bisheng
+# 欢迎来到 BishengForWeb
 
 ## Bisheng 是什么
 
